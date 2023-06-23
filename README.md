@@ -5,10 +5,10 @@ Trabajo Final de Fundamentos de Data Science 2023-1
 Los objetivos concretos de este proyecto de analítica para Peru_bike son identificar perfiles de clientes propensos a comprar bicicletas, implementar un scoring de venta, comprender las preferencias y necesidades de los clientes, analizar los patrones de comportamiento de compra y mejorar la segmentación de clientes.
 
 ## Participantes
-*Jak Cristian Campos Espinoza
-*Sebastian Gabriel Cataño Justiniani
-*Gonzalo Alejandro Jurado Garay
-*Alejandro Olaf López Flores
+- Jak Cristian Campos Espinoza
+- Sebastian Gabriel Cataño Justiniani
+- Gonzalo Alejandro Jurado Garay
+- Alejandro Olaf López Flores
 
 ## Descripción del conjunto de datos
 | Variable | Descripción |
