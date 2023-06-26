@@ -5,13 +5,11 @@
 3,24381,Single,Female,70000,0,Bachelors,Professional,Yes,1,5-10 Miles,Pacific,41,Yes
 4,25597,Single,Male,30000,0,Bachelors,Clerical,No,0,0-1 Miles,Europe,36,Yes
 5,13507,Married,Female,10000,2,Partial College,Manual,Yes,0,1-2 Miles,Europe,50,No
-6,27974,Single,Male,160000,2,High School,Management,No,4,0-1 Miles,Pacific,33,Yes
 7,19364,Married,Male,40000,1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,Europe,43,Yes
 8,22155,Single,Male,20000,2,Partial High School,Clerical,Yes,2,5-10 Miles,Pacific,58,No
 9,19280,Married,Male,56268,2,Partial College,Manual,Yes,1,0-1 Miles,Europe,44,Yes
 10,22173,Married,Female,30000,3,High School,Skilled Manual,No,2,1-2 Miles,Pacific,54,Yes
 11,12697,Single,Female,90000,0,Bachelors,Professional,No,4,10+ Miles,Pacific,36,No
-12,11434,Married,Male,170000,5,Partial College,Professional,Yes,1,0-1 Miles,Europe,55,No
 13,25323,Married,Male,40000,2,Partial College,Clerical,Yes,1,1-2 Miles,Europe,35,Yes
 14,23542,Single,Male,60000,1,Partial College,Skilled Manual,No,1,0-1 Miles,Pacific,45,Yes
 15,20870,Single,Female,10000,2,High School,Manual,Yes,1,0-1 Miles,Europe,38,Yes
@@ -42,7 +40,6 @@
 40,27803,Single,Female,30000,2,Partial College,Clerical,No,0,0-1 Miles,Europe,43,No
 41,14347,Single,Female,40000,2,Bachelors,Management,Yes,2,5-10 Miles,Pacific,65,Yes
 42,17703,Married,Female,10000,1,Graduate Degree,Manual,Yes,0,0-1 Miles,Europe,40,No
-43,17185,Married,Female,170000,4,Partial College,Professional,No,3,5-10 Miles,Europe,48,Yes
 44,29380,Married,Female,20000,3,High School,Manual,Yes,0,0-1 Miles,Europe,41,Yes
 45,23986,Married,Female,20000,1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,66,Yes
 46,24466,Married,Female,60000,1,Partial College,Skilled Manual,Yes,1,5-10 Miles,Pacific,46,Yes
@@ -120,7 +117,6 @@
 118,19914,Married,Male,80000,5,Bachelors,Management,Yes,2,2-5 Miles,Europe,62,No
 119,12871,Single,Female,30000,0,Partial College,Clerical,No,1,2-5 Miles,Europe,29,No
 120,22988,Married,Female,40000,2,Bachelors,Management,Yes,2,5-10 Miles,Pacific,66,Yes
-121,15922,Married,Male,150000,2,High School,Professional,Yes,4,0-1 Miles,Europe,48,No
 122,12344,Single,Female,80000,0,Bachelors,Professional,No,3,10+ Miles,Pacific,31,No
 123,23627,Single,Female,100000,3,Partial College,Management,No,4,5-10 Miles,Europe,56,No
 124,27775,Single,Female,40000,0,Bachelors,Clerical,No,0,0-1 Miles,Europe,38,Yes
@@ -177,7 +173,6 @@
 175,17504,Single,Female,80000,2,Partial College,Skilled Manual,Yes,2,5-10 Miles,Pacific,52,Yes
 176,12253,Single,Female,20000,0,Partial College,Manual,Yes,0,0-1 Miles,Pacific,29,Yes
 177,27304,Single,Female,110000,2,Partial College,Professional,No,3,5-10 Miles,Europe,48,No
-178,14191,Married,Male,160000,4,Partial College,Professional,No,2,10+ Miles,Europe,55,Yes
 179,12212,Married,Female,10000,0,Graduate Degree,Manual,Yes,0,0-1 Miles,Europe,37,Yes
 180,25529,Single,Male,10000,1,Graduate Degree,Manual,Yes,0,0-1 Miles,Europe,44,No
 181,22170,Married,Female,30000,3,Partial College,Clerical,No,2,1-2 Miles,Pacific,55,Yes
@@ -258,7 +253,6 @@
 256,21738,Married,Male,20000,1,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,43,No
 257,14164,Single,Female,50000,0,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,Europe,36,Yes
 258,14193,Single,Female,100000,3,Partial College,Management,Yes,4,10+ Miles,Europe,56,No
-259,12705,Married,Male,150000,0,Bachelors,Management,Yes,4,0-1 Miles,Pacific,37,Yes
 260,22672,Single,Female,30000,2,Partial College,Clerical,Yes,0,0-1 Miles,Europe,43,No
 261,26219,Married,Female,40000,1,Bachelors,Skilled Manual,Yes,1,1-2 Miles,Europe,33,Yes
 262,28468,Married,Female,10000,2,Partial College,Manual,Yes,0,1-2 Miles,Europe,51,No
@@ -320,7 +314,6 @@
 318,19066,Married,Male,130000,4,Partial College,Professional,No,3,10+ Miles,Europe,54,No
 319,11386,Married,Female,30000,3,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,45,No
 320,20228,Married,Male,100000,0,Graduate Degree,Management,Yes,0,2-5 Miles,Pacific,40,Yes
-321,16675,Single,Female,160000,0,Graduate Degree,Management,No,3,0-1 Miles,Pacific,47,Yes
 322,16410,Single,Female,10000,4,Partial High School,Manual,Yes,2,0-1 Miles,Europe,41,Yes
 323,27760,Single,Female,40000,0,Graduate Degree,Clerical,No,0,0-1 Miles,Europe,37,Yes
 324,22930,Married,Male,90000,4,Bachelors,Professional,Yes,0,1-2 Miles,Pacific,38,Yes
@@ -355,7 +348,6 @@
 353,26354,Single,Male,40000,0,Graduate Degree,Clerical,No,0,0-1 Miles,Europe,38,Yes
 354,14785,Single,Male,30000,1,Bachelors,Clerical,No,1,1-2 Miles,Europe,39,No
 355,17238,Single,Male,80000,0,Bachelors,Professional,Yes,3,10+ Miles,Pacific,32,No
-356,23608,Married,Female,150000,3,High School,Professional,Yes,3,0-1 Miles,Europe,51,Yes
 357,22538,Single,Female,10000,0,Partial High School,Manual,Yes,2,1-2 Miles,Europe,33,No
 358,12332,Married,Male,90000,4,High School,Management,Yes,3,5-10 Miles,Europe,58,Yes
 359,17230,Married,Male,80000,0,Bachelors,Professional,Yes,3,10+ Miles,Pacific,30,No
@@ -374,7 +366,6 @@
 372,12510,Married,Male,40000,1,Bachelors,Skilled Manual,Yes,1,0-1 Miles,Europe,43,Yes
 373,25512,Single,Male,20000,0,High School,Manual,No,1,2-5 Miles,Europe,30,No
 374,16179,Single,Female,80000,5,Bachelors,Professional,Yes,4,1-2 Miles,Pacific,38,No
-375,15628,Married,Female,40000,1,Bachelors,Skilled Manual,Yes,1,0-1 Miles,Europe,89,No
 376,20977,Married,Male,20000,1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,64,Yes
 377,18140,Married,Male,130000,3,Partial College,Professional,No,3,5-10 Miles,Europe,51,Yes
 378,20417,Married,Male,30000,3,Partial College,Clerical,No,2,5-10 Miles,Pacific,56,No
@@ -400,7 +391,6 @@
 398,27771,Single,Male,30000,1,Bachelors,Clerical,Yes,1,1-2 Miles,Europe,39,Yes
 399,26167,Single,Female,40000,2,Bachelors,Management,No,1,5-10 Miles,Pacific,53,Yes
 400,25792,Single,Female,110000,3,Bachelors,Management,Yes,4,10+ Miles,Europe,53,No
-401,11555,Married,Female,40000,1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,80,No
 402,22381,Married,Male,10000,1,Graduate Degree,Manual,Yes,0,0-1 Miles,Europe,44,No
 403,17882,Married,Male,20000,1,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,44,No
 404,22174,Married,Male,30000,3,High School,Skilled Manual,Yes,2,5-10 Miles,Pacific,54,Yes
@@ -828,7 +818,6 @@
 826,15501,Married,Male,70000,4,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,36,Yes
 827,13911,Single,Female,80000,3,Bachelors,Skilled Manual,Yes,2,2-5 Miles,North America,41,Yes
 828,20421,Single,Female,40000,0,Partial High School,Clerical,Yes,2,5-10 Miles,North America,26,No
-829,16009,Single,Male,170000,1,Graduate Degree,Management,No,4,0-1 Miles,North America,66,No
 830,18411,Married,Male,60000,2,High School,Professional,No,2,5-10 Miles,North America,51,No
 831,19163,Married,Female,70000,4,Bachelors,Professional,Yes,2,0-1 Miles,North America,43,Yes
 832,18572,Married,Female,60000,0,Graduate Degree,Professional,Yes,0,0-1 Miles,North America,39,No
@@ -992,7 +981,6 @@
 990,14332,Single,Female,30000,0,High School,Skilled Manual,No,2,5-10 Miles,North America,26,No
 991,19117,Single,Female,60000,1,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,36,Yes
 992,22864,Married,Male,90000,2,Partial College,Professional,No,0,5-10 Miles,North America,49,Yes
-993,11292,Single,Male,150000,1,Partial College,Professional,No,3,0-1 Miles,North America,44,Yes
 994,13466,Married,Male,80000,5,Partial College,Professional,Yes,3,1-2 Miles,North America,46,No
 995,23731,Married,Male,60000,2,High School,Professional,Yes,2,2-5 Miles,North America,54,Yes
 996,28672,Single,Male,70000,4,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,35,Yes
