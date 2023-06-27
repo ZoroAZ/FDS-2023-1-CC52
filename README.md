@@ -29,5 +29,12 @@ Los objetivos concretos de este proyecto de analítica para Peru_bike son identi
 
 ## Conclusiones
 
+En base a los requerimientos, se alcanzan estas conclusiones:
+
+- Se puede decir que la mayoría de los clientes, a pesar de que compraran una bicicleta o no, reciben un ingreso aproximado de 55000.
+- La cantidad total de ingresos recibidos por clientes casados es mayor al de clientes solteros, lo cual puede deber a que aquellos casados necesitan más plata para sus familias.
+- Clientes con una educación de nivel Bachelors son los que menos tienen hijos, pero en general el número total de clientes sin hijos es considerablemente alto.
+- Clientes con una ocupación profesional son los que más tienen un vehículo de transporte, pero incluso así este no es un número muy alto al considerar la cantidad de clientes en el dataset.
+- La edad promedio entre clientes que tienen una propiedad o no es relativamente parejo, con una diferencia de alrededor de un año.
 
 ## Licencia de uso
