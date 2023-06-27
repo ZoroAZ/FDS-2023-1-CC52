@@ -38,3 +38,5 @@ En base a los requerimientos, se alcanzan estas conclusiones:
 - La edad promedio entre clientes que tienen una propiedad o no es relativamente parejo, con una diferencia de alrededor de un año.
 
 ## Licencia de uso
+
+Se ha acordado usar para este proyecto analítico la licencia Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)
